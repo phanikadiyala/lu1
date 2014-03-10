@@ -1,0 +1,17 @@
+body {
+	font:16px Avenir, calibri,arial;
+	background-color: gray;
+	color: #444;
+}
+
+#div1 {
+color: red;
+}
+
+span.emphasize{
+	font:300 22px Avenir;
+	font-weight: bold;
+	font-size: 22px;
+	font-family: avenir;
+	color: #ff0000;
+}
