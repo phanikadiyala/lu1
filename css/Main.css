@@ -130,6 +130,10 @@ ul.skillset{
 	font-size:0.85em;
 }
 ul.skillset >li{
+	display: inline-block;
+	padding: 0.15em 0.75em 0.25em 0.75em;
+	border-radius: 0.15em;
+	margin:0.25em 0.25em 0.45em 0.25em;
 	font-weight: 100;
 	color: #262626;
 	background-color: #afafaf;
@@ -150,7 +154,7 @@ ul.skillset > li:hover {
 	float: left;
 	padding-bottom: 3em;
 	width: 80%;
-	background-color: rgba(207,85,58,0.90);
+	background-color: rgba(150 ,150 ,150, 0.20);
 }
 
 div.qualification {
@@ -216,6 +220,7 @@ div.experience_block{
 	float: left;
 	width: 98%;
 	border-top: 2em 0.5em 0.5em 0.5em;
+	margin:2em 0.5em  0.5em 0.5em;
 }
 span.exp_title {
 	display: inline-block;
