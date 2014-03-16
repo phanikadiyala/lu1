@@ -1,0 +1,197 @@
+@import url('reset.css');
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,700);
+body {
+    background: #333 url(../images/words-bg.png) no-repeat top center fixed ;
+    background-size: cover;
+    overflow-x:hidden;
+    font-family:'Open Sans', sans-serif, Arial, Helvetica, sans-serif;
+    color:#333;
+}
+
+.sidebar {
+    width:230px; height:700px;
+    position:fixed; left:0; top:0;
+    background:#fff; overflow:hidden;
+    -webkit-box-shadow: 10px 0px 10px 0 rgba(0,0,0,.4);
+    box-shadow: 0px 0px 10px 0 rgba(0,0,0,.4);
+    z-index:999; text-align:center;
+}
+
+.content_wrap {
+    margin-left: 230px;
+}
+.logo_cont {
+    text-align:center;
+    padding:35px 15px;
+}
+
+.main_nav li {
+    border-top:1px dashed #ccc;
+    position:relative;
+}
+.main_nav li:last-child {
+    border-bottom:1px dashed #ccc;
+}
+.main_nav li a{
+    padding:15px; display:block; position:relative;
+    text-align:center; text-transform:uppercase;
+    text-decoration:none; color:#666666; font-size:16px;
+    z-index:500;
+    -webkit-transition: all 0.5s ease-in;
+    -moz-transition: all 0.5s ease-in;
+    -o-transition: all 0.5s ease-in;
+    transition: all 0.5s ease-in;
+}
+.main_nav li.active a{
+    color:#fff; font-size:16px; font-weight:700;
+    -webkit-transition: all 0.5s ease-out;
+    -moz-transition: all 0.5s ease-out;
+    -o-transition: all 0.5s ease-out;
+    transition: all 0.5s ease-out;
+}
+.main_nav li span{
+    position: absolute; left:0; top:-1px;
+    height:48px; width:100%;
+    transform: translate(220px,0);
+    -ms-transform: translate(220px,0); /* IE 9 */
+    -webkit-transform: translate(220px,0); /* Safari and Chrome */
+    -webkit-transition: all 0.5s ease-in;
+    -moz-transition: all 0.5s ease-in;
+    -o-transition: all 0.5s ease-in;
+    transition: all 0.5s ease-in;
+}
+.main_nav li.active span{
+    transform: translate(0,0);
+    -ms-transform: translate(0,0); /* IE 9 */
+    -webkit-transform: translate(0,0); /* Safari and Chrome */
+    -webkit-transition: all 0.5s ease-out;
+    -moz-transition: all 0.5s ease-out;
+    -o-transition: all 0.5s ease-out;
+    transition: all 0.5s ease-out;
+}
+
+.sidefoot {
+    position:absolute;
+    bottom:10px; width:100%;
+    text-align:center
+}
+.socialmedia, .socialmedia li {
+    display:inline-block; margin:0 10px;
+}
+
+.socialmedia li a {
+    display:inline-block;
+    width:34px; height:34px;
+}
+
+.copyright {
+    font-size:12px; color:#999; padding:15px 0 0 0;
+}
+
+.fb a {background:url(../images/facebook-icon.png) no-repeat center center;}
+.tw a {background:url(../images/twitter-icon.png) no-repeat center center;}
+.gp a {background:url(../images/google-plus-icon.png) no-repeat center center;}
+
+.content_wrap {
+    margin-left:230px;
+}
+h1{
+    font-weight:700; font-size:48px; color:#fff;
+}
+h2, h3{
+    font-weight:400;font-size:30px;
+}
+h3.big{
+    font-weight:700; font-size:40px; color:#fff;
+}
+/* About */
+.about{
+    min-height:700px;
+    backface-visibility: visible;
+    transform-origin: 0% 50% 0px;
+    -webkit-transform-origin: 0% 50% 0px;
+    transform: perspective(1000px) rotateY(50deg);
+    -ms-transform: perspective(1000px) rotateY(50deg);
+    -webkit-transform: perspective(1000px) rotateY(50deg);
+    -webkit-transition: all 0.5s ease-out;
+    -moz-transition: all 0.5s ease-out;
+    -o-transition: all 0.5s ease-out;
+    transition: all 0.5s ease-out;
+}
+.about.active  {
+    transform: perspective(1000px) rotateY(0deg);
+    -ms-transform: perspective(1000px) rotateY(0deg);
+    -webkit-transform: perspective(1000px) rotateY(0deg);
+    -webkit-transition: all 0.5s ease-in;
+    -moz-transition: all 0.5s ease-in;
+    -o-transition: all 0.5s ease-in;
+    transition: all 0.5s ease-in;
+}
+.about, .about_btn span {
+    background:#ffcc33;
+}
+.works, .works_btn span {
+    background:#1ed87d;
+}
+.services, .services_btn span {
+    background:#ff415c;
+}
+.team, .team_btn span {
+    background:#178cc6;
+}
+.contact, .contact_btn span {
+    background:#3ac8ff;
+}
+
+
+.intro {
+    padding:180px 50px 50px 80px;
+    text-transform:uppercase;
+
+}
+.intro_desc {
+    padding:0 50px 50px 80px; max-width:685px;
+    line-height:24px;
+}
+.scroll_info {
+    width:108px; height:108px;
+    position:absolute; right:50px; bottom:50px;
+    background:url(../images/scroll-msg.png) no-repeat;
+    -moz-transition:all .5s  ease-in;
+    -webkit-transition:all .5s  ease-in;
+    transition:all .5s  ease-in;
+}
+.scroll_info.hide{
+    -moz-transform:translate(500px,0);
+    -webkit-transform:translate(500px,0);
+    transform:translate(500px,0);
+    opacity:0;
+
+}
+
+#awwwards {
+    position: absolute;
+    top: 40px;
+    z-index: 9999;
+}
+#awwwards.left {
+    left: 0;
+}
+#awwwards.right {
+    right: 0;
+}
+#awwwards a {
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    display: block;
+    height: 105px;
+    overflow: hidden;
+    text-indent: -8000px;
+    width: 70px;
+}
+#awwwards.left.black a {
+    background-image: url("../images/awwwards_honorable_black_left.png");
+}
+#awwwards.right.black a {
+    background-image: url("../images/awwwards_honorable_black_right.png");
+}
