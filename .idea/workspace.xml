@@ -64,8 +64,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="example36.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javascript/example36.html">
+      <file leaf-file-name="example45.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript/example45.html">
           <provider selected="true" editor-type-id="text-editor">
             <state line="7" column="52" selection-start="0" selection-end="511" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="360">
               <folding />
@@ -73,8 +73,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="example37.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javascript/example37.html">
+      <file leaf-file-name="example46.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript/example46.html">
           <provider selected="true" editor-type-id="text-editor">
             <state line="7" column="52" selection-start="0" selection-end="511" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="360">
               <folding />
@@ -82,8 +82,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="example38.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javascript/example38.html">
+      <file leaf-file-name="example46.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript/js/example46.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="12" selection-start="224" selection-end="224" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
+              <folding>
+                <element signature="e#0#42#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="example47.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript/example47.html">
           <provider selected="true" editor-type-id="text-editor">
             <state line="7" column="52" selection-start="0" selection-end="511" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="360">
               <folding />
@@ -91,8 +102,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="example39.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javascript/example39.html">
+      <file leaf-file-name="example47.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript/js/example47.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="31" selection-start="662" selection-end="662" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
+              <folding>
+                <element signature="e#0#42#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="example48.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript/example48.html">
           <provider selected="true" editor-type-id="text-editor">
             <state line="7" column="52" selection-start="330" selection-end="330" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="360">
               <folding />
@@ -100,10 +122,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="example39.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/javascript/js/example39.js">
+      <file leaf-file-name="example48.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/javascript/js/example48.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="27" selection-start="861" selection-end="861" vertical-scroll-proportion="0.53571427" vertical-offset="0" max-vertical-offset="700">
+            <state line="20" column="3" selection-start="554" selection-end="554" vertical-scroll-proportion="0.3857143" vertical-offset="0" max-vertical-offset="700">
               <folding>
                 <element signature="e#0#42#0" expanded="false" />
               </folding>
@@ -111,32 +133,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="example38.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javascript/js/example38.js">
+      <file leaf-file-name="example45.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript/js/example45.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="21" selection-start="449" selection-end="449" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
-              <folding>
-                <element signature="e#0#42#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="example37.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javascript/js/example37.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="13" selection-start="352" selection-end="467" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
-              <folding>
-                <element signature="e#0#42#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="example36.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javascript/js/example36.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="9" selection-start="486" selection-end="601" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
+            <state line="17" column="16" selection-start="590" selection-end="590" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
               <folding>
                 <element signature="e#0#42#0" expanded="false" />
               </folding>
@@ -154,23 +154,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/javascript/example14.html" />
-        <option value="$PROJECT_DIR$/javascript/js/example14.js" />
-        <option value="$PROJECT_DIR$/javascript/example15.html" />
-        <option value="$PROJECT_DIR$/javascript/js/example15.js" />
-        <option value="$PROJECT_DIR$/javascript/example16.html" />
-        <option value="$PROJECT_DIR$/javascript/js/example16.js" />
-        <option value="$PROJECT_DIR$/javascript/example17.html" />
-        <option value="$PROJECT_DIR$/javascript/js/example17.js" />
-        <option value="$PROJECT_DIR$/javascript/example18.html" />
-        <option value="$PROJECT_DIR$/javascript/js/example18.js" />
-        <option value="$PROJECT_DIR$/javascript/example20.html" />
-        <option value="$PROJECT_DIR$/javascript/js/example20.js" />
-        <option value="$PROJECT_DIR$/javascript/example21.html" />
-        <option value="$PROJECT_DIR$/javascript/js/exmple21.js" />
-        <option value="$PROJECT_DIR$/javascript/js/example21.js" />
-        <option value="$PROJECT_DIR$/javascript/example22.html" />
-        <option value="$PROJECT_DIR$/javascript/example23.html" />
         <option value="$PROJECT_DIR$/javascript/js/example22.js" />
         <option value="$PROJECT_DIR$/javascript/js/example23.js" />
         <option value="$PROJECT_DIR$/javascript/example24.html" />
@@ -205,12 +188,29 @@
         <option value="$PROJECT_DIR$/javascript/js/example38.js" />
         <option value="$PROJECT_DIR$/javascript/example39.html" />
         <option value="$PROJECT_DIR$/javascript/js/example39.js" />
+        <option value="$PROJECT_DIR$/javascript/example41.html" />
+        <option value="$PROJECT_DIR$/javascript/js/example41.js" />
+        <option value="$PROJECT_DIR$/javascript/example42.js" />
+        <option value="$PROJECT_DIR$/javascript/example42.html" />
+        <option value="$PROJECT_DIR$/javascript/js/example42.js" />
+        <option value="$PROJECT_DIR$/javascript/example43.html" />
+        <option value="$PROJECT_DIR$/javascript/js/example43.js" />
+        <option value="$PROJECT_DIR$/javascript/example44.html" />
+        <option value="$PROJECT_DIR$/javascript/js/example44.js" />
+        <option value="$PROJECT_DIR$/javascript/example45.html" />
+        <option value="$PROJECT_DIR$/javascript/js/example45.js" />
+        <option value="$PROJECT_DIR$/javascript/example46.html" />
+        <option value="$PROJECT_DIR$/javascript/js/example46.js" />
+        <option value="$PROJECT_DIR$/javascript/example47.html" />
+        <option value="$PROJECT_DIR$/javascript/js/example47.js" />
+        <option value="$PROJECT_DIR$/javascript/example48.html" />
+        <option value="$PROJECT_DIR$/javascript/js/example48.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="113" />
-    <option name="y" value="46" />
+    <option name="x" value="37" />
+    <option name="y" value="26" />
     <option name="width" value="1318" />
     <option name="height" value="820" />
   </component>
@@ -516,15 +516,15 @@
       <created>1395092334716</created>
       <updated>1395092334716</updated>
       <workItem from="1395092336955" duration="13901000" />
-      <workItem from="1395208028259" duration="14796000" />
+      <workItem from="1395208028259" duration="22868000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28697000" />
+    <option name="totallyTimeSpent" value="36769000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="113" y="46" width="1318" height="820" extended-state="0" />
+    <frame x="37" y="26" width="1318" height="820" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -571,96 +571,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/javascript/example13.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="52" selection-start="0" selection-end="510" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="345" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript/js/example14.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="0" selection-start="1072" selection-end="1072" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript/example14.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="52" selection-start="0" selection-end="510" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="345" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript/js/example15.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="35" selection-start="682" selection-end="682" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript/js/example16.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="33" selection-start="362" selection-end="362" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript/js/example18.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="443" selection-end="443" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript/example18.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="20" selection-start="0" selection-end="511" vertical-scroll-proportion="0.06392045" vertical-offset="0" max-vertical-offset="704" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript/js/example17.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="57" selection-start="556" selection-end="556" vertical-scroll-proportion="0.32692307" vertical-offset="0" max-vertical-offset="728" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript/example17.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="52" selection-start="0" selection-end="511" vertical-scroll-proportion="0.14914773" vertical-offset="0" max-vertical-offset="704" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript/example16.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="52" selection-start="0" selection-end="511" vertical-scroll-proportion="0.14914773" vertical-offset="0" max-vertical-offset="704" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript/example15.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="52" selection-start="0" selection-end="511" vertical-scroll-proportion="0.14914773" vertical-offset="0" max-vertical-offset="704" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript/js/example21.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="26" selection-start="324" selection-end="324" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript/example21.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="52" selection-start="0" selection-end="511" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="360">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript/example22.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="511" selection-end="511" vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="360">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript/js/example22.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="3" selection-start="338" selection-end="338" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript/example20.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="52" selection-start="0" selection-end="511" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="360">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/javascript/js/example20.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="23" column="0" selection-start="479" selection-end="598" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
@@ -888,6 +798,8 @@
         <state line="27" column="9" selection-start="486" selection-end="601" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
           <folding>
             <element signature="e#0#42#0" expanded="false" />
+            <marker date="1395274023000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395274023000" expanded="true" signature="-1:-1" placeholder="{...}" />
           </folding>
         </state>
       </provider>
@@ -913,6 +825,9 @@
         <state line="17" column="21" selection-start="449" selection-end="449" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
           <folding>
             <element signature="e#0#42#0" expanded="false" />
+            <marker date="1395278776000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395278776000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395278776000" expanded="true" signature="-1:-1" placeholder="{...}" />
           </folding>
         </state>
       </provider>
@@ -924,16 +839,151 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/js/example39.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="27" selection-start="861" selection-end="861" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/javascript/example39.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="52" selection-start="0" selection-end="511" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="360">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/example41.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="50" selection-start="0" selection-end="511" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="360">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/js/example41.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="30" selection-start="502" selection-end="502" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/example42.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="52" selection-start="0" selection-end="511" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="360">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/js/example42.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="24" selection-start="308" selection-end="308" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
+          <folding>
+            <marker date="1395347534000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395347534000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395347534000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/js/example43.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="26" selection-start="761" selection-end="761" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/example43.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="52" selection-start="0" selection-end="511" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="360">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/js/example44.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="7" selection-start="436" selection-end="436" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
+            <marker date="1395349695000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395349695000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395349695000" expanded="true" signature="-1:-1" placeholder="{&quot;id&quot;: 32...}" />
+            <marker date="1395349695000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395349695000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/example44.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="52" selection-start="0" selection-end="511" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="360">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/js/example45.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="16" selection-start="590" selection-end="590" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/example45.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="52" selection-start="0" selection-end="511" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="360">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/js/example46.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="12" selection-start="224" selection-end="224" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/example46.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="52" selection-start="0" selection-end="511" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="360">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/js/example47.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="31" selection-start="662" selection-end="662" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/example47.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="52" selection-start="0" selection-end="511" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="360">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/example48.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="52" selection-start="330" selection-end="330" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="360">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javascript/js/example39.js">
+    <entry file="file://$PROJECT_DIR$/javascript/js/example48.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="27" selection-start="861" selection-end="861" vertical-scroll-proportion="0.53571427" vertical-offset="0" max-vertical-offset="700">
+        <state line="20" column="3" selection-start="554" selection-end="554" vertical-scroll-proportion="0.3857143" vertical-offset="0" max-vertical-offset="700">
           <folding>
             <element signature="e#0#42#0" expanded="false" />
           </folding>
