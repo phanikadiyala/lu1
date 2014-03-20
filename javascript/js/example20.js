@@ -18,7 +18,9 @@ $(document).ready(function(){
  var x = 4
     if (x != 5)
    console.log("x value is not 5");
-
+   //console.log(parseInt('22 customers have 32 orders'));
+   //console.log('.32');
+    //console.log(parseFloat('.32'));
 
 
 });
