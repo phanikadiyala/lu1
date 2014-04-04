@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Events</title>
+    <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="css/object.css">
+    <script type="text/javascript" src="jquery.js"></script>
+    <script>
+        window.onload = function(){
+            log('navigator.appName' + navigator.appName);
+            log('navigator.appVersion' + navigator.appVersion);
+            log('navigator.userAgent' + navigator.userAgent);
+            log('navigator.platform' + navigator.platform);
+            //print all teh properties of the navigator object
+            printAllProperties(navigator);
+
+
+        };
+
+        function log(strval){
+            var op = document.getElementById('output_data');
+            op.innerHTML += strval + '</br>';
+        }
+
+        function printAllProperties(obj){
+            for(var prop in obj){
+                console.log(prop + ':' + typeof obj[prop]);
+                if(typeof obj == 'object'){
+                    printAllProperties(obj[prop]);
+                }
+
+            }
+        }
+    </script>
+</head>
+<body>
+<div id="print_to_console">(view firebug console) <br/></div>
+<div class="center">Generic Examples - window object</div>
+<div class="center">
+    <span class="describe_box">program output</span>
+    <span class="opbox" id="output_data">&lt; No output as of now !&gt;</span>
+</div>
+
+<div class="center" style="height:500px;">
+
+
+</div>
+<div class="center"  id="bottom_of_page"> Bottom of page !
+    <br/>
+    <a href="#top" id="a_top">Go to the top of the page</a>
+
+</div>
+</body>
+</html>

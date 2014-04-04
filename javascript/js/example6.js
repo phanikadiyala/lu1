@@ -8,13 +8,16 @@ $(document).ready(function(){
     };
     customer.id = 32;
     console.log(customer.id);
-
+    //Object.defineProperty(customer,"id", {configurable:false});
     Object.defineProperty(customer,"id", {writable:true});
     customer.id = 64;
     console.log(customer.id);
 
-    console.log(Object.getOwnPropertyDescriptor(customer,'id'));
     Object.defineProperty(customer,"id", {configurable:false});
+    //delete customer.id;
+   // console.log(customer);
+    console.log(Object.getOwnPropertyDescriptor(customer,'id'));
+
 
 
 });

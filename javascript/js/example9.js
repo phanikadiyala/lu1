@@ -18,6 +18,9 @@ $(document).ready(function(){
     var res_del_phone = delete customerA.phone;
     console.log(res_del_phone);
     var res_del_email = delete customerA.email;
+    console.log(customerA);
+    /*A delete expression evaluates to true if the delete succeeded or if the delete had no
+    effect (such as deleting a nonexistent property).*/
     console.log(res_del_email);
 
 });

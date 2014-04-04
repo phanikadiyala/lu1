@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <script language="javascript" type="text/javascript">
+        function randomString() {
+            var chars = "0123456789abcdefghiklmnopqrstuvwxyz";
+            var string_length = 24;
+            var randomstring = '02-help-';
+            for (var i=0; i<string_length; i++) {
+                var rnum = Math.floor(Math.random() * chars.length);
+                randomstring += chars.substring(rnum,rnum+1);
+            }
+            document.randform.randomfield.value = randomstring;
+        }
+    </script>
+</head>
+<body>
+
+
+<form name="randform">
+    <input type="button" value="Create Random String" onClick="randomString();">&nbsp;
+    <input type="text" name="randomfield" value="">
+</form>
+
+
+</body>
+</html>

@@ -10,11 +10,13 @@ $(document).ready (function(){
            city:'santa clara',
            zip:'95219'
        },
+       "last name" : "kadiyala",
        "custom field":'......notes on customer ...'
    };
     console.log(customer.id);
     console.log(customer.address.city);
     console.log(customer['id']);
+    console.log(customer['last name']); // can not access with customer.last name
 
 
 });

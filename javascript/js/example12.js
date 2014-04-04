@@ -16,10 +16,13 @@ $(document).ready(function(){
         this.email = _email;
     }
     var customerC = new Customer (128, 'customer@mainnator.com');
+    //var customerD = new Object();
     console.log(Object.getPrototypeOf(customerA));
     console.log(Object.getPrototypeOf(customerB));
     console.log(Object.getPrototypeOf(customerC));
     console.log(customer.isPrototypeOf(customerA));
     console.log(Object.isPrototypeOf(customerB));
-    console.log(customer.isPrototypeOf(customerC));
+    console.log(Object.prototype.isPrototypeOf(customerB));
+    console.log(Customer.isPrototypeOf(customerC));
+    console.log(Customer.prototype.isPrototypeOf(customerC));
 });

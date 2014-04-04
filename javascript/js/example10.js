@@ -24,6 +24,7 @@ $(document).ready(function() {
         console.log(prop + ':' + customerA[prop]);
     }
     //console.log(Object.keys(customerA));
+    /*The Object.keys() method returns an array of a given object's own enumerable properties, */
    var test = Object.keys(customerA);
 
     for (var prop in test){

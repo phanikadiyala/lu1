@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dom Scripting</title>
+    <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
+    <!--<link rel="stylesheet" href="css/object.css">-->
+    <script type="text/javascript" src="jquery.js"></script>
+    <script type="text/javascript">
+        window.onload = function(){
+            var elms = document.getElementsByTagName('head');
+            var externalScript = document.createElement('script');
+            externalScript.src = 'js/2blocking_script.js';
+            elms[0].appendChild(externalScript);
+
+        };
+    </script>
+</head>
+<body>
+<div>(view firebug console) <br/></div>
+<div class="center">I feel "rendered" !</div>
+</body>
+</html>

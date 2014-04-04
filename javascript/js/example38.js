@@ -22,7 +22,7 @@ $(document).ready(function(){
     var n = 10;
     var results = [];
 
-    for (var i= 1, len = arguments.length; i < len; i++){
+    for (var i= 0, len = operators_array.length; i < len; i++){
         results[i] = operate(operators_array[i],m,n);
 
     }

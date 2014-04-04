@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <script language="javascript" type="text/javascript">
+        function randomString() {
+            var chars = "0123456789abcdefghiklmnopqrstuvwxyz";
+            var string_length = 24;
+            var randomstring = '02-help-';
+            for (var i=0; i<string_length; i++) {
+                var rnum = Math.floor(Math.random() * chars.length);
+                randomstring += chars.substring(rnum,rnum+1);
+            }
+            document.randform.randomfield.value = randomstring;
+        }
+    </script>
+</head>
+<body>
+<!--<script>
+  var o = {};
+  o.x = 1;
+
+    //var p = inherit(o);
+    //console.log(p.x);
+    x = 1;
+   console.log(delete this.x);
+
+  delete Object.prototype; // Can't delete; property is non-configurable
+  var x = 1; // Declare a global variable
+  delete this.x; // Can't delete this property
+  function f() {} // Declare a global function
+  delete this.f; // Can't delete this property either
+
+
+</script> -->
+
+<form name="randform">
+    <input type="button" value="Create Random String" onClick="randomString();">&nbsp;
+    <input type="text" name="randomfield" value="">
+</form>
+
+
+</body>
+</html>

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+<script>
+    var x = {};
+    var y ={};
+
+    console.log(x.toString()+2);
+    console.log(x.toString());
+
+    console.log(x.prototype);
+    console.log(Object.getPrototypeOf(x));
+    console.log(x.valueOf());
+
+    var x = {
+        valueOf:function(){
+            return 1;
+        }
+    };
+    var n = Number(x);
+    console.log(n)
+    console.log(x+2);
+
+    var str = String(x);
+    console.log(str);
+
+    var x = {
+        valueOf:function(){
+            return 59;
+        },
+          toString:function(){
+
+              return 'object has an id of 32';
+          }
+
+    };
+   // var n = Number(x);
+    //console.log(n)
+
+    console.log(x+2+3);
+
+    var y = String(x);
+   // x = 'object has an id of 32';
+    console.log(y);
+
+    function test(){
+        //reduce (test());
+       return arguments.reduce(
+              function (a,b){
+                  return a + b;
+              }
+        );
+
+    }
+console.log(test(100,20,10));
+
+</script>
+
+</body>
+</html>

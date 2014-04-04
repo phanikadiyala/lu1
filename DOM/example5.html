@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+    //conditional javascript code for Internet Explorer
+    var isIE = /*@cc_on!@*/false;
+    alert(isIE);
+</script>
+    <title>Example5</title>
+    <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="css/object.css">
+    <script type="text/javascript" src="jquery.js"></script>
+    <script type="text/javascript" src='js/2blocking_script.js'></script>
+</head>
+<body>
+<! -- [if lt IE 9] >
+<div class="center">
+    Type of browser (< IE9)
+</div>
+<![[endif] --->
+<div id="print_to_console">(view firebug console) <br/></div>
+<div class="center">Timeline of Dom Parsing</div>
+</body>
+</html>

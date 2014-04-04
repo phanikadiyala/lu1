@@ -16,4 +16,5 @@ $(document).ready(function(){
     var y = Array(100);
     var z = [];
     z[11] = 100;
+   // console.log(customerArray['HelloWorld'])
 });

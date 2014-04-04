@@ -18,5 +18,7 @@ $(document).ready(function(){
   };
 var customerA = createObject_ES4(customer);
     console.log(customerA);
+    var customerB = Object.create(customer);
+    console.log(customerB);
 
 });

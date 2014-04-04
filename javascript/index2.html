@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+<script>
+    function Car(){
+        this.name = 'sonal';
+    }
+
+    Car.name = 'phani';
+    Car.prototype.name = 'raj';
+
+    var volvo = new Car();
+   // console.log(volvo.name);
+    console.log(window.id);
+    var x = function (){
+        this.id = 32;
+
+    }
+x();
+ console.log(x.id);
+    //console.log(window.id);
+
+</script>
+
+</body>
+</html>
